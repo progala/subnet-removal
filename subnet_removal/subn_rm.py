@@ -6,11 +6,7 @@ Usage:
 
 - Filter out prefixes read from a file
 
-$ subn_rm random_ips.txt
-
-- Filter out prefixes piped from other program
-
-$ cat ex_pfx_lengths_ipv4.txt | xargs -L 1 ./subn_rm [-ipv6]
+$ subn_rm [-ipv6] random_ips.txt
 """
 import argparse
 import sys

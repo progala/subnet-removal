@@ -26,6 +26,8 @@ More details @ http://ttl255.com/subnet-removal-with-python/
 
 - Filter out prefixes read from a file
 
+```
 $ subn_rm pfxs_ex_01.txt [-ipv6]
+```
 
 ```ipv6``` flag enables processing of IPv6 prefixes
