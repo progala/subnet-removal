@@ -4,7 +4,7 @@ subnet_removal - Filters out child prefixes read from a file, or passed from sta
 
 Can be used as a module or as a standalone shell utility.
 
-More details @ https://ttl255.com/subnet-removal-with-python/
+More details @ https://ttl255.com/subnet-filtering-with-python/
 
 ## Import as a module
 
